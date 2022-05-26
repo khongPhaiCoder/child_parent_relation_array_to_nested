@@ -11,7 +11,7 @@ Thư viện có sẵn \
 Nhược điểm: \
 -data trả về dư các trường parent_id, items rỗng \
 -thiếu trường isDirectory \
-Cách dùng: \
+Cách dùng:
 
 ```
 const { arrayToTree } = require("performant-array-to-tree");
