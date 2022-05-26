@@ -1,4 +1,4 @@
-Cách 1: convert.js \n
+Cách 1: convert.js \\
 Ưu và nhược: test r ms b :)) \n
 Cách dùng:
 
