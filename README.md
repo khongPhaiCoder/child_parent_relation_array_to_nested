@@ -1,17 +1,17 @@
 Cách 1: convert.js \
-Ưu và nhược: test r ms b :)) \n
+Ưu và nhược: test r ms b :)) \
 Cách dùng:
 
 ```
 const tree = arrayToTree(currentFiles);
 ```
 
-Cách 2: https://www.npmjs.com/package/performant-array-to-tree \n
-Thư viện có sẵn \n
-Nhược điểm: \n
--data trả về dư các trường parent_id, items rỗng \n
--thiếu trường isDirectory \n
-Cách dùng: \n
+Cách 2: https://www.npmjs.com/package/performant-array-to-tree \
+Thư viện có sẵn \
+Nhược điểm: \
+-data trả về dư các trường parent_id, items rỗng \
+-thiếu trường isDirectory \
+Cách dùng: \
 
 ```
 const { arrayToTree } = require("performant-array-to-tree");
